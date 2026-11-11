@@ -8,6 +8,8 @@ Hi, I'm Fatima Tanveer, a WordPress Content Manager and On-Page SEO Specialist b
 I have 3+ years of experience working with WordPress website management, content uploading, website updates, data management, page formatting, and on-page SEO optimization.
 
 I enjoy creating well-organized websites, managing digital content, and continuously developing my professional skills.
+<img width="685" height="460" alt="image" src="https://github.com/user-attachments/assets/68abc52d-28e6-4523-8518-0c6a35e51e24" />
+
 
 ## Project Objectives
 
